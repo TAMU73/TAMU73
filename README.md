@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Flutter
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Some of my friends calls me OX🐂🤣
+- ⚡ Fun fact: Some of my friends call me OX🐂🤣
 
 #### Connect with me:
 
